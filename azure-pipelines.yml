@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- azure-pipelines2
+- azure-pipelines3
 
 pool:
   vmImage: Tes-Pool
